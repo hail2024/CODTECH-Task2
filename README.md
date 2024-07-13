@@ -1,8 +1,12 @@
 ## library-management-project-using-python-and-tkinter
 
 
-developer :  salah sammari
-
+NAME: HAIL MARY MARGARET M
+COMPANY: CODTECH IT SOLUTIONS
+ID: CT04PP2196
+Domain: Python Programming
+Duration:May to June 2024
+Mentor: Sravani Gouni
 Library Management System
 Library Management System written in Python, tkinter and MySQL
 
